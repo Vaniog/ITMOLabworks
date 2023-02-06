@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/labwork5.dir/main.cpp.o -o labwork5  ../lib/libargparser.a 

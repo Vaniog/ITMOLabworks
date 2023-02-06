@@ -1,0 +1,6 @@
+1
+1
+input.txt
+pics2
+0
+0

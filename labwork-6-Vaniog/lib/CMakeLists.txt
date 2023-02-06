@@ -1,0 +1,1 @@
+add_library(ITMLparse parser.cpp Param.cpp Param.h Section.cpp Section.h IstreamFuncs.cpp IstreamFuncs.h)

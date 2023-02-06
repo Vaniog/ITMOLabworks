@@ -1,0 +1,1 @@
+/usr/bin/g++-11 -g CMakeFiles/labwork_3_Vaniog.dir/BMP_Manager/WriteAsBMP.cpp.o CMakeFiles/labwork_3_Vaniog.dir/BMP_Manager/BMP_Structs.cpp.o CMakeFiles/labwork_3_Vaniog.dir/Sand_Heap/SandHeap.cpp.o CMakeFiles/labwork_3_Vaniog.dir/main.cpp.o -o labwork_3_Vaniog 

@@ -1,0 +1,3 @@
+/home/forva/CLionProjects/Labworks/labwork-3-Vaniog/cmake-build-debug/CMakeFiles/labwork_3_Vaniog.dir
+/home/forva/CLionProjects/Labworks/labwork-3-Vaniog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/forva/CLionProjects/Labworks/labwork-3-Vaniog/cmake-build-debug/CMakeFiles/rebuild_cache.dir

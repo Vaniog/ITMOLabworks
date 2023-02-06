@@ -1,0 +1,1 @@
+add_library(parser HafArgs.cpp HafArgs.h Parser.cpp Parser.h)
